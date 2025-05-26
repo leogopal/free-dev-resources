@@ -1243,6 +1243,7 @@ Update Time, five active automations, webhooks.
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation, and more
   * [render.com](https://render.com) — Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
+  * [Sevalla Free Static Site Hosting](https://sevalla.com/static-site-hosting/) — You can deploy up to 100 static sites for free, 600 free build minutes included, 1GB size limit/site, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
   * [SourceForge](https://sourceforge.net/) — Find, Create, and Publish Open Source software for free
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [telegra.ph](https://telegra.ph/) Easily create web page using Quill
