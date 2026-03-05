@@ -209,6 +209,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## APIs, Data, and ML
 
+  * [JSON Web Tools](https://jsonwebtools.com) - 18+ free client-side JSON tools: format, validate, diff, repair, JWT decode, JSONPath evaluator, convert to TypeScript/Python/Java/Go/C#/PHP/Kotlin/Ruby/Rust, CSV/YAML/XML/SQL converters. No login, no tracking.
   * [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
   * [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
   * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
