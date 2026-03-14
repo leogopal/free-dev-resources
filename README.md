@@ -1806,6 +1806,7 @@ Update Time, five active automations, webhooks.
   * [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
   * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [Currencyapi](https://currencyapi.com) — Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
+  * [ZapInvoice](https://zapinvoice.web.app) — Free invoice generator for freelancers. PDF export, multi-currency, no signup needed.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1929,6 +1930,7 @@ Update Time, five active automations, webhooks.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+  * [ZapTools](https://zaptools.web.app) — 114+ free browser-based developer tools (JSON formatter, regex tester, CSS generators, code formatters, hash generators, and more). No signup required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
