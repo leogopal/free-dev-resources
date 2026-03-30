@@ -217,6 +217,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
   * [APIToolkit.io](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
   * [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.
+  * [CoinPaprika](https://api.coinpaprika.com) - Cryptocurrency market data API with 12,000+ coins, 350+ exchanges, tickers, OHLCV, and historical prices. Free tier offers 20K calls/month with no API key required.
+  * [DexPaprika](https://api.dexpaprika.com) - Free DEX data API across 34 blockchains with 30M+ pools, 27M+ tokens, real-time SSE streaming. 10K requests/day, no API key required.
   * [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
   * [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.
   * [Beeceptor](https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
