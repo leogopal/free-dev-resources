@@ -2000,3 +2000,6 @@ HTML Themes and UI Kits to create your applications faster!
 
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+### ToolPipe
+- [ToolPipe](https://toolpipe.dev) - 120+ free developer utility APIs. QR codes, text analysis, JSON/XML/YAML conversion, DNS lookup, SSL checking, code formatting, and more. No signup required. Also available as an MCP server for AI coding agents.
