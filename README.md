@@ -1857,6 +1857,7 @@ Update Time, five active automations, webhooks.
   * [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides website screenshots and domain intelligence API services. Free 100 requests/month.
   * [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
   * [Screenshots](https://screenshotson.click) — Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.
+  * [CurlShot](https://curlshot.com) — Screenshot API: send a URL, HTML or Markdown and get back a PNG, JPEG, WebP, PDF or scrolling video. Includes an MCP server for AI agents. Free 100 screenshots/month, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
